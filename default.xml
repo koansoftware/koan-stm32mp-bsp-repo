@@ -21,7 +21,7 @@
 
   <project remote="qt5" name="meta-qt5" path="sources/meta-qt5"/>
 
-  <project remote="koan" name="meta-stm32mp-koan" path="sources/meta-stm32mp-koan">
+  <project remote="koan" name="meta-stm32mp-koan" path="sources/meta-stm32mp-koan"/>
 
   <project remote="koan" name="koan-stm32mp-bsp-base" path="sources/base">
 	<linkfile dest="README.md" src="README.md"/>
