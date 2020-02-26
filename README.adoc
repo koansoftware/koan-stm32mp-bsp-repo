@@ -15,7 +15,7 @@ Download the BSP source:
 $: PATH=${PATH}:~/bin
 $: mkdir koan-stm32mp
 $: cd koan-stm32mp
-$: repo init -u https://github.com/koansoftware/koan-stm32mp-bsp-repo
+$: repo init -b thud -u https://github.com/koansoftware/koan-stm32mp-bsp-repo
 $: repo sync
 
 At the end of the commands you have every metadata you need to start work with.
