@@ -13,8 +13,8 @@ Download the BSP source:
 
 [source,console]
 $: PATH=${PATH}:~/bin
-$: mkdir koan-stm32mp
-$: cd koan-stm32mp
+$: mkdir yocto-stm32-dunfell
+$: cd yocto-stm32-dunfell
 $: repo init -b dunfell -u https://github.com/koansoftware/koan-stm32mp-bsp-repo
 $: repo sync
 
