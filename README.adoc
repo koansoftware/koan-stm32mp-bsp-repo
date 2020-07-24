@@ -1,4 +1,4 @@
-= Koan BSP for ST stm32mp
+= Koan BSP for STM32MP1 - Yocto Project 3.1 'dunfell' LTS
 
 To get the BSP you need to have `repo` installed and use it as:
 
@@ -15,7 +15,7 @@ Download the BSP source:
 $: PATH=${PATH}:~/bin
 $: mkdir koan-stm32mp
 $: cd koan-stm32mp
-$: repo init -b thud -u https://github.com/koansoftware/koan-stm32mp-bsp-repo
+$: repo init -b dunfell -u https://github.com/koansoftware/koan-stm32mp-bsp-repo
 $: repo sync
 
 At the end of the commands you have every metadata you need to start work with.

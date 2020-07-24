@@ -4,7 +4,7 @@
 
 <manifest>
 
-  <default sync-j="4" revision="thud"/>
+  <default sync-j="4" revision="dunfell"/>
 
   <remote fetch="https://git.yoctoproject.org/git" name="yocto"/>
   <remote fetch="https://github.com/koansoftware" name="koan"/>
