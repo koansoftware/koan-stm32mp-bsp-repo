@@ -30,5 +30,4 @@ You can use any directory to host your build.
 
 == Contributing
 
-To contribute to this layer you should send the patches for review to info [AT] koansoftware.com
-
+Please use GitHub (https://github.com/koansoftware/koan-stm32mp-bsp-repo) to submit issues or pull requests, or add to the documentation on the wiki. Contributions are welcome!
