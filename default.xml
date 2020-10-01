@@ -16,8 +16,8 @@
   <project remote="yocto" name="poky" path="sources/poky"/>
   <project remote="oe" name="meta-openembedded.git" path="sources/meta-openembedded"/>
 
-  <project remote="st" name="meta-st-stm32mp" path="sources/meta-st-stm32mp"/>
-  <project remote="st" name="meta-st-openstlinux" path="sources/meta-st-openstlinux"/>
+  <project remote="koan" name="meta-st-stm32mp" path="sources/meta-st-stm32mp"/>
+  <project remote="koan" name="meta-st-openstlinux" path="sources/meta-st-openstlinux"/>
 
   <project remote="qt5" name="meta-qt5" path="sources/meta-qt5"/>
 
